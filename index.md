@@ -50,8 +50,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
             useriq.identify(user_id, {
               user_name: 'ashwin',
               account_id: account_id,
-              account_name: 'INSERT_ACCOUNT_NAME_HERE',
-              user_email: 'INSERT_USER_EMAIL_HERE',
+              account_name: 'ashwin',
             })
             useriq.startTracker()
             var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
